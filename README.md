@@ -1,0 +1,2 @@
+# CheckCred
+Check SfB Credential
